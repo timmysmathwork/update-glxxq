@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="100%" id="root" style="position:fixed;inset:0;width:100vw;height:100vh;margin:0;padding:0;overflow:hidden;background:#07120c;" width="100%">
+  <title>Timmys Math Work — Auto Update</title>
+  <desc>Auto-updating SVG. Loads the live site from GitHub via jsDelivr, pinned to the newest commit so it is never stale. Reloads itself every 2 minutes and when the tab becomes visible.</desc>
+  <rect fill="#07120c" height="100%" width="100%"/>
+  
+  
+</svg>
